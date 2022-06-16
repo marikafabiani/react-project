@@ -7,7 +7,7 @@ function App() {
   const articleTitle = {
     padding: "10px",
     marginTop: 0,
-    marginBottom: 5, 
+    marginBottom: 0, 
     fontFamily: "Arial",
   };
   const articleDescription = {

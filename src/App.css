@@ -27,7 +27,7 @@
 } */
 
 .App {
-  background-color: #e6e6e6;
+  background-color: #EDEDED;
   padding: 20px;
 }
 
@@ -42,16 +42,17 @@
 }
 
 .page-title {
-  color: #4E857F;
+  color: #3F6D68;
   text-align: center;
   margin-top: 0px;
 }
 
 .article {
-  border-bottom: 5px solid #4E857F;
+  border-bottom: 5px solid #3F6D68;
   position: relative;
   background-color: white;
   height: 430px;
+  box-shadow: 7px 7px 5px #C7C7C7;
 }
 
 .articleImage {
@@ -65,7 +66,7 @@
 .articleSource {
   margin: 0px;
   padding: 10px;
-  color: #4E857F;
+  color: #3F6D68;
   font-weight: bold;
 }
 
@@ -75,7 +76,7 @@
 }
 
 .articleButton {
-  background-color: #4E857F;
+  background-color: #3F6D68;
   cursor: pointer;
   font-size: large;
   padding: 5px 20px;
